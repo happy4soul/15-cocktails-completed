@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/15-cocktails-completed/static/css/main.53dd988b.chunk.css",
+    "main.js": "/15-cocktails-completed/static/js/main.be381306.chunk.js",
+    "main.js.map": "/15-cocktails-completed/static/js/main.be381306.chunk.js.map",
+    "runtime-main.js": "/15-cocktails-completed/static/js/runtime-main.79732783.js",
+    "runtime-main.js.map": "/15-cocktails-completed/static/js/runtime-main.79732783.js.map",
+    "static/js/2.72303b8e.chunk.js": "/15-cocktails-completed/static/js/2.72303b8e.chunk.js",
+    "static/js/2.72303b8e.chunk.js.map": "/15-cocktails-completed/static/js/2.72303b8e.chunk.js.map",
+    "index.html": "/15-cocktails-completed/index.html",
+    "precache-manifest.69507f48428fd9aa33d9cda390661cc7.js": "/15-cocktails-completed/precache-manifest.69507f48428fd9aa33d9cda390661cc7.js",
+    "service-worker.js": "/15-cocktails-completed/service-worker.js",
+    "static/css/main.53dd988b.chunk.css.map": "/15-cocktails-completed/static/css/main.53dd988b.chunk.css.map",
+    "static/js/2.72303b8e.chunk.js.LICENSE.txt": "/15-cocktails-completed/static/js/2.72303b8e.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/15-cocktails-completed/static/media/logo.f3ad7664.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.79732783.js",
+    "static/js/2.72303b8e.chunk.js",
+    "static/css/main.53dd988b.chunk.css",
+    "static/js/main.be381306.chunk.js"
+  ]
+}
